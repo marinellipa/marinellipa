@@ -33,7 +33,7 @@ Hey there! I'm **Mabilia Rinelli** – a Computer Science student at the **Unive
 - 💗 **Fun fact**: I can mediate a conflict as well as I can debug a stored procedure – thanks to my training in peer support and assertiveness!
 
 
-## 🎓 Education
+## Education
 
 | Institution | Degree | Period | Highlights |
 |-------------|--------|--------|------------|
@@ -41,7 +41,7 @@ Hey there! I'm **Mabilia Rinelli** – a Computer Science student at the **Unive
 | **Claret Las Palmas** | Scientific Baccalaureate | 2020 – 2022 | Final grade: 9.7/10; Mediation Program member |
 
 
-## 💼 Experience & Events
+## Experience & Events
 
 - **NTT Data** – *Risging Software Engineer (Data & AI Department)*  
   Developed ETL processes using **SQL Developer** and **Oracle Data Integrator** – real-world data wrangling!
@@ -50,7 +50,7 @@ Hey there! I'm **Mabilia Rinelli** – a Computer Science student at the **Unive
   Attended workshops on technical interviewing, cloud tech, and database management – met some amazing people!
 
 
-## 🌿 Tech Stack & Skills
+## Tech Stack & Skills
 
 ### Languages & Tools
 ![SQL](https://img.shields.io/badge/SQL-FF69B4?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -83,7 +83,7 @@ Hey there! I'm **Mabilia Rinelli** – a Computer Science student at the **Unive
 | **[Mediation App](https://github.com/[tu-usuario]/mediation-app)** | A simple tool to help peers practice conflict resolution (just a prototype). | `React` `Node.js` |
 -->
 
-## 🌺 My Day in a Nutshell
+## My Day in a Nutshell
 
 - 🏐 **Morning**: Gym – gotta stay active!
 - 💻 **Late morning**: Classes / coding sessions – databases are my jam.
@@ -92,7 +92,7 @@ Hey there! I'm **Mabilia Rinelli** – a Computer Science student at the **Unive
 - 🎧 **Evening**: Chill with music, or dive into a side project.
 - 🌙 **Night**: Plan tomorrow’s ETL pipeline (or just dream about it).
 
-## 🌷 Let’s Connect!
+## Let’s Connect!
 
 I'm always open to chatting about data, tech, or just life. Find me here:
 
