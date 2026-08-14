@@ -7,17 +7,17 @@
 -->
 
 <div align="center">
-  <img 
-    src="https://capsule-render.vercel.app/api?type=venom&color=0:FFB6C1,100:98FB98&height=200&section=header&text=Mabilia%20Rinelli&fontSize=40&fontColor=454545&animation=fadeIn&fontAlignY=30&desc=Computer%20Science%20Student%20%7C%20Information%20Systems%20Enthusiast&descAlignY=50&descSize=18"
-    width="100%"
-  />
+<img 
+  src="https://capsule-render.vercel.app/api?type=venom&color=0:eed8af,100:ff8896&height=200&section=header&text=Mabilia%20Rinelli&fontSize=40&fontColor=322d24&animation=fadeIn&fontAlignY=30&desc=Computer%20Science%20Student%20%7C%20Information%20Systems%20Enthusiast&descAlignY=50&descSize=18"
+  width="100%"
+/>
   
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=24&pause=1200&color=E8A0B5&center=true&vCenter=true&width=650&lines=Future+Data+Scientist;ETL+%2B+SQL+%3D+%E2%9D%A4%EF%B8%8F;Always+learning+something+new;Born+in+the+Canary+Islands"
+    src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=24&pause=1200&color=ff8896&center=true&vCenter=true&width=650&lines=Future+Data+Scientist;ETL+%2B+SQL+%3D+%E2%9D%A4%EF%B8%8F;Always+learning+something+new;Born+in+the+Canary+Islands"
     alt="Typing SVG"
   />
   
-  <img src="https://komarev.com/ghpvc/?username=marinellipa&style=for-the-badge&color=ffb6c1&label=★+VISITORS" />
+  <img src="https://komarev.com/ghpvc/?username=marinellipa&style=for-the-badge&color=ff8896&label=★+VISITORS" />
 </div>
 
 
@@ -53,13 +53,13 @@ Hey there! I'm **Mabilia Rinelli** – a Computer Science student at the **Unive
 ## Tech Stack & Skills
 
 ### Languages & Tools
-![SQL](https://img.shields.io/badge/SQL-FF69B4?style=for-the-badge&logo=postgresql&logoColor=white)
-![C](https://img.shields.io/badge/C-FF69B4?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-FF69B4?style=for-the-badge&logo=cplusplus&logoColor=white)
-![LaTeX](https://img.shields.io/badge/LaTeX-FF69B4?style=for-the-badge&logo=latex&logoColor=white)
-![Git](https://img.shields.io/badge/Git-3CB371?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-3CB371?style=for-the-badge&logo=linux&logoColor=white)
-![ODI](https://img.shields.io/badge/Oracle%20Data%20Integrator-FF69B4?style=for-the-badge&logo=oracle&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-c36356?style=for-the-badge&logo=postgresql&logoColor=white)
+![C](https://img.shields.io/badge/C-c36356?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-c36356?style=for-the-badge&logo=cplusplus&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-c36356?style=for-the-badge&logo=latex&logoColor=white)
+![Git](https://img.shields.io/badge/Git-cd9c5a?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-cd9c5a?style=for-the-badge&logo=linux&logoColor=white)
+![ODI](https://img.shields.io/badge/Oracle%20Data%20Integrator-c36356?style=for-the-badge&logo=oracle&logoColor=white)
 
 ### Soft Skills
 - Teamwork 🤝
@@ -98,12 +98,12 @@ I'm always open to chatting about data, tech, or just life. Find me here:
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mabilia-rinelli)
-[![Email](https://img.shields.io/badge/Email-3CB371?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rnellimabilia@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-c36356?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mabilia-rinelli)
+[![Email](https://img.shields.io/badge/Email-cd9c5a?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rnellimabilia@gmail.com)
 
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:98FB98,100:FFB6C1&height=100&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:eed8af,100:ff8896&height=100&section=footer" width="100%"/>
   <br>
 </div>
